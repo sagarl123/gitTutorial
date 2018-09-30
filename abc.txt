@@ -1,0 +1,2 @@
+hello 
+(touch abc.txt)// creates abc text file
